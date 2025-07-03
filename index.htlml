@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="Eraj Amir - AI Developer Portfolio" />
+    <meta name="author" content="Eraj Amir" />
+    <title>Eraj Amir - AI Developer</title>
+    <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
+    <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
+    <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet" type="text/css" />
+    <link href="css/styles.css" rel="stylesheet" />
+</head>
+<body id="page-top">
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+        <a class="navbar-brand js-scroll-trigger" href="#page-top">
+            <span class="d-block d-lg-none">Eraj Amir</span>
+            <span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="assets/img/profile.jpg" alt="..." /></span>
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav">
+                <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">About</a></li>
+                <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#experience">Experience</a></li>
+                <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Education</a></li>
+                <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Skills</a></li>
+                <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Interests</a></li>
+                <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards">Certifications</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Page Content -->
+    <div class="container-fluid p-0">
+        <!-- About -->
+        <section class="resume-section" id="about">
+            <div class="resume-section-content">
+                <h1 class="mb-0">
+                    Eraj <span class="text-primary">Amir</span>
+                </h1>
+                <div class="subheading mb-5">
+                    Lahore, Pakistan · +92 (335) 429-6968 ·
+                    <a href="mailto:erajamir01@gmail.com">erajamir01@gmail.com</a>
+                </div>
+                <p class="lead mb-5">Results-driven AI developer skilled in building conversational agents, voice-enabled assistants, and automation tools using Python and prompt engineering. Experienced in NLU, NLG, and real-time speech interaction with platforms like Cursor AI and Zencoder. Passionate about solving real-world problems through AI innovation and seamless user experience.</p>
+                <div class="social-icons">
+                    <a class="social-icon" href="https://linkedin.com/in/erajamir"><i class="fab fa-linkedin-in"></i></a>
+                    <a class="social-icon" href="https://github.com/erajamir"><i class="fab fa-github"></i></a>
+                </div>
+            </div>
+        </section>
+        <hr class="m-0" />
+<!-- Experience -->
+<section class="resume-section" id="experience">
+    <div class="resume-section-content">
+        <h2 class="mb-5">Experience</h2>
+
+        <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+            <div class="flex-grow-1">
+                <h3 class="mb-0">AI Developer – Conversational AI</h3>
+                <div class="subheading mb-3">NeuroNest AI, Boston, MA</div>
+                <p>
+                    • Built ROSE, an AI chatbot using Python + Cursor AI, with custom NLU/NLG.<br>
+                    • Enabled real-time speech-to-text & text-to-speech using Zencoder.<br>
+                    • Developed voice-powered travel assistant giving personalized recommendations.
+                </p>
+            </div>
+            <div class="flex-shrink-0"><span class="text-primary">Jan 2025 – Present</span></div>
+        </div>
+
+        <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+            <div class="flex-grow-1">
+                <h3 class="mb-0">Prompt Engineer – Automation & Content</h3>
+                <div class="subheading mb-3">iTradeGen, United States</div>
+                <p>
+                    • Designed viral AI prompts for social media with Canva Pro & Make.com.<br>
+                    • Automated daily content scheduling with constraint-based prompts.<br>
+                    • Used ChatGPT to refine creative prompts across platforms.
+                </p>
+            </div>
+            <div class="flex-shrink-0"><span class="text-primary">Sep 2023 – Dec 2024</span></div>
+        </div>
+
+        <div class="d-flex flex-column flex-md-row justify-content-between">
+            <div class="flex-grow-1">
+                <h3 class="mb-0">Technical Resume Writer – ATS Optimization</h3>
+                <div class="subheading mb-3">Freelance / Peer Support</div>
+                <p>
+                    • Created 30+ LaTeX-based Harvard-style resumes for students & professionals.<br>
+                    • Applied to jobs via LinkedIn & Glassdoor on clients’ behalf using Simplify.<br>
+                    • Customized resumes using LLMs, Resume Worded & prompt tools.
+                </p>
+            </div>
+            <div class="flex-shrink-0"><span class="text-primary">Mar 2023 – Present</span></div>
+        </div>
+    </div>
+</section>
+<hr class="m-0" />
+<!-- Education -->
+<section class="resume-section" id="education">
+    <div class="resume-section-content">
+        <h2 class="mb-5">Education</h2>
+
+        <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+            <div class="flex-grow-1">
+                <h3 class="mb-0">Punjab Group of Colleges</h3>
+                <div class="subheading mb-3">Intermediate in Computer Science</div>
+                <p>Relevant Coursework: Programming Fundamentals, Data Analysis, Probability & Statistics, Hypothesis Testing</p>
+            </div>
+            <div class="flex-shrink-0"><span class="text-primary">2025 – 2027</span></div>
+        </div>
+
+        <div class="d-flex flex-column flex-md-row justify-content-between">
+            <div class="flex-grow-1">
+                <h3 class="mb-0">Harvard University</h3>
+                <div class="subheading mb-3">CS50’s Introduction to Programming with Python</div>
+                <p>Topics: Data Structures, OOP, APIs, Unit Testing, Virtual Environments</p>
+            </div>
+            <div class="flex-shrink-0"><span class="text-primary">2024 – 2025</span></div>
+        </div>
+    </div>
+</section>
+<hr class="m-0" />
+<!-- Skills -->
+<section class="resume-section" id="skills">
+    <div class="resume-section-content">
+        <h2 class="mb-5">Skills & Tools</h2>
+
+        <div class="subheading mb-3">Programming & AI</div>
+        <ul class="fa-ul mb-0">
+            <li><span class="fa-li"><i class="fas fa-code"></i></span>Python, Jupyter, Tkinter, Streamlit, HTML, CSS</li>
+            <li><span class="fa-li"><i class="fas fa-robot"></i></span>ChatGPT, Prompt Engineering, Cursor AI, Zencoder</li>
+            <li><span class="fa-li"><i class="fas fa-brain"></i></span>LLM Tools: Few-shot, CoT, Role-based, Function Calling</li>
+        </ul>
+
+        <br><div class="subheading mb-3">Productivity & Design</div>
+        <ul class="fa-ul mb-0">
+            <li><span class="fa-li"><i class="fas fa-magic"></i></span>Canva Pro, Make.com, VS Code, Overleaf, GitHub</li>
+            <li><span class="fa-li"><i class="fas fa-check-circle"></i></span>Microsoft Office, Power BI, Teams</li>
+        </ul>
+
+        <br><div class="subheading mb-3">Soft Skills</div>
+        <ul class="fa-ul mb-0">
+            <li><span class="fa-li"><i class="fas fa-comments"></i></span>Effective Communication</li>
+            <li><span class="fa-li"><i class="fas fa-tasks"></i></span>Time Management & Problem Solving</li>
+        </ul>
+    </div>
+</section>
+<hr class="m-0" />
+<!-- Interests -->
+<section class="resume-section" id="interests">
+    <div class="resume-section-content">
+        <h2 class="mb-5">Interests</h2>
+        <p>Besides developing AI projects, I enjoy exploring tech videos, building automations with no-code tools, and improving my resume writing skills. I love learning how to combine AI with productivity to solve real-world problems.</p>
+        <p class="mb-0">I also follow AI research, engage in tech forums, and create content on LinkedIn to share what I learn.</p>
+    </div>
+</section>
+<hr class="m-0" />
+<!-- Certifications -->
+<section class="resume-section" id="awards">
+    <div class="resume-section-content">
+        <h2 class="mb-5">Certifications</h2>
+        <ul class="fa-ul mb-0">
+            <li><span class="fa-li"><i class="fas fa-certificate text-warning"></i></span>Explore and Analyze Data with Python – Microsoft</li>
+            <li><span class="fa-li"><i class="fas fa-certificate text-warning"></i></span>Python for Data Science – Great Learning</li>
+            <li><span class="fa-li"><i class="fas fa-certificate text-warning"></i></span>Prompt Engineering – Simplilearn</li>
+            <li><span class="fa-li"><i class="fas fa-certificate text-warning"></i></span>Applied Data Science with Python – Simplilearn</li>
+        </ul>
+    </div>
+</section>
+</div> <!-- container -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+<script src="js/scripts.js"></script>
+</body>
+</html>
